@@ -1,0 +1,13 @@
+lastUpgrade=00940
+proj.pluginVersion=0.9.40
+proj.AppId=248159163279
+and.BundleId=com.Zeonic.Narai
+proj.classDir=Assets
+proj.ConstantsClassName=Narai
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3c%21--%0aGoogle+Play+game+services+IDs.%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0a--%3e%0a%3cresources%3e%0a++%3c%21--+app_id+--%3e%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e248159163279%3c%2fstring%3e%0a++%3c%21--+package_name+--%3e%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.Zeonic.Narai%3c%2fstring%3e%0a++%3c%21--+achievement+1+--%3e%0a++%3cstring+name%3d%22achievement_1%22+translatable%3d%22false%22%3eCgkIj6fBu5wHEAIQBQ%3c%2fstring%3e%0a%3c%2fresources%3e
+and.ClientId=248159163279-dsrsl2r3uoqcma7t4j4mjs3d5ic8k9vo.apps.googleusercontent.com
+android.SetupDone=true
+ios.ClientId=248159163279-dsrsl2r3uoqcma7t4j4mjs3d5ic8k9vo.apps.googleusercontent.com
+ios.BundleId=com.Zeonic.Narai
+ios.ResourceData=%23define+CLIENT_ID+%40%22248159163279-dsrsl2r3uoqcma7t4j4mjs3d5ic8k9vo.apps.googleusercontent.com%22%0a%23define+BUNDLE_ID+%40%22com.Zeonic.Narai%22%0a%23define+ACH_1+%40%22CgkIj6fBu5wHEAIQBQ%22
+ios.SetupDone=true

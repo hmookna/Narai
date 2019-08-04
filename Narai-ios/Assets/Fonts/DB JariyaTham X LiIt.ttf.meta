@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4013515a5efca44ce8e00616b1f5c6dd
+timeCreated: 1504536009
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DB JariyaTham X
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 038c6252ae6904b4cb304367f8491e03, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
